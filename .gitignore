@@ -1,0 +1,19 @@
+# Ignore the virtual environment folder
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore secret files (like the one for OpenAI keys)
+.env
+
+# Ignore IDE-specific settings
+.vscode/
+.idea/
+
+# Ignore temporary data files created by your script
+*.txt
+*.pdf
+*.csv
