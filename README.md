@@ -1,4 +1,5 @@
-# Local RAG Chatbot with LangChain & Ollama
+
+
 This project is a simple yet powerful command-line chatbot that uses the Retrieval-Augmented Generation (RAG) pattern to answer questions about a specific document. It runs 100% locally using Ollama and an open-source Large Language Model (LLM), ensuring your data remains private.
 
 
